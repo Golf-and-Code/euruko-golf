@@ -34,7 +34,7 @@
 	 ##      ##  ##  ## ##   ##  ##  ## ##   ##  ## 
 	 ######   ####   ##  ##   ####   ##  ##   ####  
 
-**tammofreese_wooga_smaller.rb** Reproduces the wooga ASCII art. 122 ASCII characters.
+**tammofreese_wooga_shorter.rb** Reproduces the wooga ASCII art. 117 ASCII characters.
 
 	$ ruby tammofreese_wooga_smaller.rb 
 	 ___ _   _ _ __ _   _| | __ ___
