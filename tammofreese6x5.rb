@@ -1,0 +1,1 @@
+'~f|ff<`ffflf~fxfxf`flflf~<f<f<'.unpack("B48"*5).map{|a|puts a.tr'01',' #'}
