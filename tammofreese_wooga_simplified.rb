@@ -1,3 +1,1 @@
-s=0
-"%UHe:>2I]p*8.2C~Br.St=slLJRO zPwhmMujR+.).9W1_%RSUi".bytes{|x|s=s*95+x-32}
-putc"/\n_\\| "[s%6]while 0<s/=6
+"D2DGDGD55G4FDD2C)5;AA<D4FFFF))57G2)>AAAFF4FGFF4C82?20>AG82(4882%".bytes{|x,a="/\n_\\| "|print a[x/6-6]+a[x%6]}
