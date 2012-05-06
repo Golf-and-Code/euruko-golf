@@ -1,1 +1,0 @@
-"D2DGDGD55G4FDD2C)5;AA<D4FFFF))57G2)>AAAFF4FGFF4C82?20>AG82(4882%".bytes{|x,a="/\n_\\| "|print a[x/6-6]+a[x%6]}

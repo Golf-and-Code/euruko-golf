@@ -1,0 +1,1 @@
+8.times{|i|"jqqqhdzeef{d{lttldzeef{dd\e`nudjuuujdddddddE'!-UdZ!-5ZddE\eeddE'!-U".bytes{|b|print"    _ (_)(_)"[((b^100)>>6-i)%4*3,3]};puts}

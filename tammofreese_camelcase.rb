@@ -1,0 +1,1 @@
+8.times{|i|"Fpppx9'88;&9Fqus\b9'88;&9F1-\ex97(((7".bytes{|b|print"    _ (_)(_)"[((b^57)>>6-i)%4*3,3]};puts}
