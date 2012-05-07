@@ -5,4 +5,4 @@ R   N M u n p a c k ( N
 B2  4 N *4  ) M ma  p {
 XaX p=a M t rN0 1 N  ,
 
-'=#'}".tr("\s\n","").tr("=NMX"," '.|")
+'=#'}".tr(" \n","").tr("=NMX"," '.|")
