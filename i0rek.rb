@@ -11,7 +11,6 @@
 # " ### ### # # ### # #  # "
 #
 # The funny thing is, that this script itself is ascii art already!
-#
 # Don't see what I mean? Let me help you by replacing some chars with #:
 #
 # eval"
@@ -19,7 +18,7 @@
 # ### # # ##  # # e w  W
 # #   # # # # # # c k ( N
 # ##  # # ##  # # ma  p {
-# ### ### # # ##0 1 N  ,
+# ### ### # # ### 1 N  ,
 #
 # '=#'}".tr(" \n","").tr("=NMX"," '.|")
 #
