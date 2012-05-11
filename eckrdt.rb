@@ -1,2 +1,2 @@
 # coding: utf-8
-require'zlib';s='';'༭燒䀐ᇱ磵Ôࣳ倢⯪ֈ竈沗ⱐ嘃⠣ɫ竤㱥 иص砲ⅎ⬗恙ᠳヌ਽㸄䫽㈼३Ⰾ㥘ј䉂砠䝇 Ɠራ䄁'.codepoints{|p|s<<"%15b"%p};puts Zlib.inflate [s].pack'b*'
+require'zlib';s='';'༭橂ㅊ0ↆ௿㲢߽ឡ⡎䒼ᾛ⹲᱓̨ᬟ⒴∀ቆ㫼ᒀᖀ㓷⬓努ᮇ⠖㌠◆敌啑庝ⓖ㣬ḫ浔䵻㑬嵆䑥ኳⱄ慏丟棏㶯㶶㉹㖟㢘怞䦞ᱬ汿䭒尩撿泝ч暨堠'.codepoints{|p|s<<"%15b"%p};puts Zlib.inflate [s].pack'b*'
