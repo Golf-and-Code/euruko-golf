@@ -1,1 +1,0 @@
-'ueWEUUeeeEUUwWW'.unpack('B24'*5).map{|a|puts a.tr'01',' #'}
