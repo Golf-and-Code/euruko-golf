@@ -26,8 +26,8 @@
 # 3) Maxed Out: Huge output in dotmatrix-like font
 #
 # Program size: 140 characters in Twitter
-# Output size: 8068 ASCII bytes (195 columns, make sure your terminal is wide enough)
+# Output size: 3332 ASCII bytes (195 columns, make sure your terminal is wide enough)
 #
 # Tweet URL: https://twitter.com/#!/tammofreese/status/202503528554561537
 # 
-17.times{|r|65.times{|c|print"   (_) _ (_)"[("ğ³³³£!ﲙ⊡⊡≡ﴙ!蘭࠳こࡳ!邙ꢡꢡꡡ䄙!ट縱衉聥䂣!炑ꢩꢩꢩゑ!အࠡࠡအ!炥裣裃邳ﺭ!䂝ꣃꢳꢫ!ࢥㄟࢡ!¥ãÃ³­"[c].ord-33>>r)%4*3,3]};puts}
+17.times{|r|65.times{|c|print"   (_) _ (_)"[("ğ³³³£!ﲙ⊡⊡≡ﴙ!蘭࠳こࡳ!邙ꢡꢡꡡ䄙!ट縱衉聥䂣!炑ꢩꢩꢩゑ!အࠡࠡအ!炥裣裃邳ﺭ!䂝ꣃꢳꢫ!ࢥㄟࢡ!¥ãÃ³­"[c].ord-33>>r)%4*3,3]};puts}
