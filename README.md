@@ -24,3 +24,9 @@ Want to win one (out of four) EuRuKo tickets?
 
 **Rules** Fork this repo, add your submission 
 under your twitter handle, send us a pull request .... and don't forget to tweet it!
+
+## Inspecting the result
+
+This little shell foo might help:
+
+    for file in *.rb; do echo "#### $file ####\n"; ruby $file; echo "\n\n\n"; done
