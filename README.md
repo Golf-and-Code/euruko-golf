@@ -27,6 +27,5 @@ under your twitter handle, send us a pull request .... and don't forget to tweet
 
 ## Inspecting the result
 
-This little shell foo might help:
-
-    for file in *.rb; do echo "#### $file ####\n"; ruby $file; echo "\n\n\n"; done
+    ./run.sh
+    
