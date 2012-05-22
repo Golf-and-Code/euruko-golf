@@ -66,7 +66,7 @@ following 4 winners:
 
 ## Honorable mention
 
-### [@gorenje](http://twitter.com/gorenje)
+### [@gorenjee](http://twitter.com/gorenjee)
 
 Gerrit works at wooga, so unfortunately he can't be an official winner.
 
